@@ -1,4 +1,4 @@
-# Online Shopping System
+# Supermart Mangenment System
 
 ## Overview
 The Online Shopping System is a software application designed to facilitate online shopping operations. It allows customers to browse through available products, add them to their cart, proceed to checkout, and generate bills for their purchases. Additionally, the system provides administrative functionalities for managing products and customers.
